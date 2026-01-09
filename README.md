@@ -1,7 +1,7 @@
-# 15-Days Complete Python Roadmap
+# 10-Days Complete Python Roadmap
 
 ## Introduction
-Welcome to the **15-Days Complete Python Roadmap**! This guide is designed to help you master Python in two weeks, focusing on both fundamentals and intermediate-level concepts. Each day provides a new learning module, practical exercises, and hands-on projects to ensure a thorough understanding of Python programming.
+Welcome to the **10-Days Complete Python Roadmap**! This guide is designed to help you master Python in two weeks, focusing on both fundamentals and intermediate-level concepts. Each day provides a new learning module, practical exercises, and hands-on projects to ensure a thorough understanding of Python programming.
 
 ## Who is this for?
 - **Beginners**: New to programming or Python? This roadmap offers a structured approach to grasp the basics.
